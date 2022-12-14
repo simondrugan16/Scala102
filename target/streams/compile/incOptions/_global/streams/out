@@ -1,0 +1,65 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/simon.drugan/Documents/Scala/Scala102/target/scala-2.13/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Bird$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Dog$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Bird.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Dog.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Kennel$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cat$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Kennel.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Person$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Bird$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Dog$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Bird.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Dog.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Kennel$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cat$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Kennel.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Person$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CatPractical.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Bird$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DogPractical.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CatPractical$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Dog$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chocolate$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Bird.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OptionalsPractical.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Dog.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Kennel$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DogOptionals$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cat$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cookie$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Caramel.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pizza.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Caramel$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SpongebobCharacter$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NumberOptionals.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cookie.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chocolate.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Quote$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DogPractical$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Quote.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Flavour.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pizza$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DogOptionals.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Animal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NumberOptionals$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Kennel.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Person$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SpongebobCharacter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Size.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/simon.drugan/Documents/Scala/Scala102/target/scala-2.13/classes.bak[0m
