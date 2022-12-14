@@ -59,4 +59,8 @@ class tipCalculatorSpec extends FlatSpec {
     assert(tipCalculator.masterTip(List(Lobster), 4) === 31.25)
   }
 
+  "tipCalculator" should "calculate total cost correctly during happy hour" in {
+    assert(tipCalculator.masterTip(List(Beer, Beer, Beer, Beer), 0) === 8.0)
+  }
+
 }

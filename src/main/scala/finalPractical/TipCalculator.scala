@@ -84,11 +84,11 @@ class TipCalculator extends App {
   }
 
   def happyHourDiscount(numberOfBeers: Int): BigDecimal = {
-    val happyHourStart = 18
-    val happyHourEnd = 21
+    val happyHourStart = 5
+    val happyHourEnd = 23
 
     if (LocalTime.now.getHour >= happyHourStart && LocalTime.now.getHour < happyHourEnd) {
-      0.5 * numberOfBeers
+      0.5 * numberOfBeers * Beer.price
     } else {
       0.0
     }
